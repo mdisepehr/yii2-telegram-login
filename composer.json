@@ -1,0 +1,21 @@
+{
+    "name": "mdisepehr/yii2-telegram-login",
+    "description": "Telegram Login for Websites",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Sepehr Mehdipour",
+            "email": "botdehi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mdisepehr\\telegram\\": ""
+        }
+    }
+}
