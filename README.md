@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist mdisepehr/yii2-telegram-login "*"
+php composer.phar require --prefer-dist mdisepehr/yii2-telegram-login "dev-master"
 ```
 
 or add
 
 ```
-"mdisepehr/yii2-telegram-login": "*"
+"mdisepehr/yii2-telegram-login": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
