@@ -24,7 +24,7 @@ to the require section of your `composer.json` file.
 Bot Config
 -----
 
-for first you must add a bot in [@Botfather](https://t.me/botfather) and add domain with /setdomain command
+for first you must add a bot in [@Botfather](https://t.me/botfather) and add domain with `/setdomain` command
 
 or read [this link](https://core.telegram.org/widgets/login)
 
